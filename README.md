@@ -1,4 +1,10 @@
-npm install --save bootstrap
+# Installing bootstrap
+    npm install --save bootstrap
+
+.angular-cli.json
+    Update styles:[] section
+    add '../node-modules/bootstrap/dist/bootstrap.min.css',
+    
 
 # AgPro
 
